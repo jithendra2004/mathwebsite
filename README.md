@@ -220,7 +220,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](./ARTHIMETIC.PNG)
+![output](https://github.com/jithendra2004/mathwebsite/blob/main/ARTHIMETIC.png?raw=true)
 
 ## Result:
 
